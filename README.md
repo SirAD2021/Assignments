@@ -1,4 +1,9 @@
 # Assignments
+
+Datasets used in this assignment:
+1) MNIST:    [https://www.kaggle.com/datasets/hojjatk/mnist-dataset](url)
+2) Caltech-101:     [https://www.kaggle.com/datasets/imbikramsaha/caltech-101](url)
+
 This assignment involves building and training a CNN model on both the MNIST and Caltech-101 datasets. The tasks include:
 
 Dataset Preparation:
